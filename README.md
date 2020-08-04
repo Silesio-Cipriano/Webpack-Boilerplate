@@ -1,6 +1,6 @@
 
 
-# ::: Webpack Boilerplate-01:rocket::alien:
+# :spider_web:: Webpack Boilerplate-01:rocket::alien:
 
   
 
